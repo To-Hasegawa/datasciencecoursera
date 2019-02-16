@@ -51,4 +51,4 @@ meltData <- melt(extractDataset, id=c("subject", "Activity"),measure.vars = aver
 TidyData <- dcast(meltData, formula=subject + Activity ~variable, fun.aggregate=mean)
 
 #output data file
-data.table::fwrite(x =TidyData, file = "TidyData.txt")
+data.table::fwrite(x =TidyData, file = "TidyData.txt", row.names=FALSE)
