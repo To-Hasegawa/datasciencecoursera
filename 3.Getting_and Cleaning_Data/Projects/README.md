@@ -1,4 +1,4 @@
-#**Getting and Cleaning Data Project**  
+#H1**Getting and Cleaning Data Project**  
 ##*Goal*  
 *Prepare tidy data that can be used for later analysis  
 
