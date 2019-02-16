@@ -1,4 +1,5 @@
 # **Getting and Cleaning Data Project**  
+Toru Hasegawa  
 ## *Goal*  
 - Prepare tidy data that can be used for later analysis  
 
