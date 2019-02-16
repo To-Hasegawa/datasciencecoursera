@@ -1,19 +1,19 @@
-#H1**Getting and Cleaning Data Project**  
-##*Goal*  
+# **Getting and Cleaning Data Project**  
+## *Goal*  
 *Prepare tidy data that can be used for later analysis  
 
-##*Dataset*  
+## *Dataset*  
 <https://github.com/To-Hasegawa/datasciencecoursera/tree/master/3.Getting_and%20Cleaning_Data/Projects/UCI%20HAR%20Dataset>  
 
 ***  
-#**Review files**  
-##*Tidy Dataset*  
+# **Review files**  
+## *Tidy Dataset*  
 <>  
 
-##*Code book*  
+## *Code book*  
 <https://github.com/To-Hasegawa/datasciencecoursera/blob/master/3.Getting_and%20Cleaning_Data/Projects/CodeBook.md>  
 
-##*run_analysis(R Script)*  
+## *run_analysis(R Script)*  
 <>  
 
 In this script, did following preprocessing.  
